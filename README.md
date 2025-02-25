@@ -26,7 +26,7 @@
     <a href="https://github.com/yujnkm/4-comma-Assignment_01/blob/main/pdf/Reality-Distortion-Room-ISMAR-23.pdf"><strong>Link to PDF Report »</strong></a>
     <br />
     <br />
-    <a href="https://website.com">Your Name</a>
+    <a href="https://astroanimation.me">Isabel Whelchel</a>
     &middot;
     <a href="https://sites.google.com/view/viza626/home">VIZA 626</a>
   </p>
@@ -38,7 +38,7 @@ Figure 1. This is my 4-comma, explain what this 4-comma is trying to encaptulate
 
 <!-- Abstract -->
 ## Abstract
-Your abstract here: 50 words here.
+This work is titled 'Flora's Yonkoma'. A yonkoma is a four-panel comic that can run up and down or right to left. Yonkoma’s follow “kishōtenketsu”; The first panel sets the scene, the second adds development, the third is the climax, and the fourth shows the effects of the climax.
 
 Example of how to make a list:
 There are many great README templates available on GitHub.
@@ -57,10 +57,7 @@ Figure 2. Related works in this domain.
 <!-- Introduction and Related Works -->
 ## Introduction and Related Works
 
-Your Introduction and Related Works here: 200 words here.
-
-Here I talk about how these works have paved the way for my project. Recent research shows that sense of belonging is evoked when using mixed realty [1], and my work is inspired by this xyz. Another recent project examines the beauty of symmetry in evolution [2] that my work highlights in my 4-comma cell number 4. 
-Notable work by Kamp in 2019, highlights the beauty that could be found in nature and how it connects to design [3] and my work show the influence of that visual in 4-comma cell number 3. 
+The yonkoma I have made is a bit of a parody of a typical yonkoma. This yonkoma features my animated rabbit character, Flora Ven. Flora is a rabbit with multicolored flowers on her fur, and she gets into various different situations, usually of her own accord. In this comic she is seen drawing at a table. The first panel has her casually drawing at the table. In the second panel her drawing becomes more and more intense until in the third panel it appears she is almost battling the drawing itself, complete with comic speed lines and intense blur effects. At the end of the comic, she holds up her artwork exclaiming "I made a yonkoma". The artwork she is holding up ironically contains a smaller drawing of the comic itself, and within that drawing is a smaller drawing of the comic again. This would theoretically continue on into infinity if the viewer’s perception and digital painting software allowed it to. This is what’s referred to as a Droste Effect. It is named after the metal tins of cocoa of the Dutch chocolate maker Droste~\cite{de2005droste}, which contained a picture within a picture.
 
 How to use subsection:
 
@@ -70,7 +67,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 ## Methodology
 
-Your Methodology and Related Works here: 200 words here.
+When starting this project, research was conducted into what a yonkoma is as well as various comic art styles and effects used in animation and comic strips. To start with, yonkomas are structured differently than your average comic strip. While western culture dictates that comic strips be read left-to-right, the formatting of a yonkoma dictates that it be read from top right down to the bottom right, then again from top left to the bottom left. With this in mind, I have formatted my yonkoma to adhere with these formatting rules, having the comic begin on the right and end on the left. Yonkomas also follows the 'kishōtenketsu' formatting in which 'the narrative unfolds with story elements whose interconnectedness becomes evident near the end of the story'
 
 [![4-comma][images-fig3]](https://example.com)
 
