@@ -40,16 +40,6 @@ Figure 1. This is my 4-comma, explain what this 4-comma is trying to encaptulate
 ## Abstract
 This work is titled 'Flora's Yonkoma'. A yonkoma is a four-panel comic that can run up and down or right to left. Yonkoma’s follow “kishōtenketsu”; The first panel sets the scene, the second adds development, the third is the climax, and the fourth shows the effects of the climax.
 
-Example of how to make a list:
-There are many great README templates available on GitHub.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
 [![4-comma][images-fig2]](https://example.com)
 
 Figure 2. Related works in this domain. 
@@ -57,9 +47,7 @@ Figure 2. Related works in this domain.
 <!-- Introduction and Related Works -->
 ## Introduction and Related Works
 
-The yonkoma I have made is a bit of a parody of a typical yonkoma. This yonkoma features my animated rabbit character, Flora Ven. Flora is a rabbit with multicolored flowers on her fur, and she gets into various different situations, usually of her own accord. In this comic she is seen drawing at a table. The first panel has her casually drawing at the table. In the second panel her drawing becomes more and more intense until in the third panel it appears she is almost battling the drawing itself, complete with comic speed lines and intense blur effects. At the end of the comic, she holds up her artwork exclaiming "I made a yonkoma". The artwork she is holding up ironically contains a smaller drawing of the comic itself, and within that drawing is a smaller drawing of the comic again. This would theoretically continue on into infinity if the viewer’s perception and digital painting software allowed it to. This is what’s referred to as a Droste Effect. It is named after the metal tins of cocoa of the Dutch chocolate maker Droste~\cite{de2005droste}, which contained a picture within a picture.
-
-How to use subsection:
+The yonkoma I have made is a bit of a parody of a typical yonkoma. This yonkoma features my animated rabbit character, Flora Ven. Flora is a rabbit with multicolored flowers on her fur, and she gets into various different situations, usually of her own accord. In this comic she is seen drawing at a table. The first panel has her casually drawing at the table. In the second panel her drawing becomes more and more intense until in the third panel it appears she is almost battling the drawing itself, complete with comic speed lines and intense blur effects. At the end of the comic, she holds up her artwork exclaiming "I made a yonkoma". The artwork she is holding up ironically contains a smaller drawing of the comic itself, and within that drawing is a smaller drawing of the comic again. This would theoretically continue on into infinity if the viewer’s perception and digital painting software allowed it to. This is what’s referred to as a Droste Effect. It is named after the metal tins of cocoa of the Dutch chocolate maker, which contained a picture within a picture.
 
 ### Built With
 
@@ -104,9 +92,9 @@ Figure 6. description for Figure 6
 <!-- CONTACT -->
 ## Contact
 
-Your Name - email@tamu.edu
+Isabel Whelchel - astroanimation@yahoo.com
 
-Personal Website: [https://website.com](https://website.com)
+Personal Website: [astroanimation.me](https://astroanimation.me)
 
 
 
