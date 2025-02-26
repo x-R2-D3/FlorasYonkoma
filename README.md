@@ -49,6 +49,10 @@ Figure 2. Related works in this domain.
 
 The yonkoma I have made is a bit of a parody of a typical yonkoma. This yonkoma features my animated rabbit character, Flora Ven. Flora is a rabbit with multicolored flowers on her fur, and she gets into various different situations, usually of her own accord. In this comic she is seen drawing at a table. The first panel has her casually drawing at the table. In the second panel her drawing becomes more and more intense until in the third panel it appears she is almost battling the drawing itself, complete with comic speed lines and intense blur effects. At the end of the comic, she holds up her artwork exclaiming "I made a yonkoma". The artwork she is holding up ironically contains a smaller drawing of the comic itself, and within that drawing is a smaller drawing of the comic again. This would theoretically continue on into infinity if the viewer’s perception and digital painting software allowed it to. This is what’s referred to as a Droste Effect. It is named after the metal tins of cocoa of the Dutch chocolate maker, which contained a picture within a picture.
 
+[![4-comma][images-fig3]](https://example.com)
+
+Figure 3. Methodology and Workflow: This figure should provide a comprehensive overview of the process used to create or generate your image.
+
 ### Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
@@ -56,10 +60,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 ## Methodology
 
 When starting this project, research was conducted into what a yonkoma is as well as various comic art styles and effects used in animation and comic strips. To start with, yonkomas are structured differently than your average comic strip. While western culture dictates that comic strips be read left-to-right, the formatting of a yonkoma dictates that it be read from top right down to the bottom right, then again from top left to the bottom left. With this in mind, I have formatted my yonkoma to adhere with these formatting rules, having the comic begin on the right and end on the left. Yonkomas also follows the 'kishōtenketsu' formatting in which 'the narrative unfolds with story elements whose interconnectedness becomes evident near the end of the story'
-
-[![4-comma][images-fig3]](https://example.com)
-
-Figure 3. Methodology and Workflow: This figure should provide a comprehensive overview of the process used to create or generate your image.
 
 [![4-comma][images-fig4]](https://example.com)
 
