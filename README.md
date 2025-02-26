@@ -80,7 +80,7 @@ Your Conclusion here: 50 words here
 Figure 6. description for Figure 6
 
 <!-- Bibliography -->
-## Bibliography 
+## References
 
 [1] Craig B Caldwell. 2024. Breaking the Story Formula. In SIGGRAPH Asia 2024 Courses. 1–11.
 
@@ -94,7 +94,7 @@ Culture. 169–178.
 
 Isabel Whelchel - astroanimation@yahoo.com
 
-Personal Website: [astroanimation.me](https://astroanimation.me)
+Portfolio Website: [astroanimation.me](https://astroanimation.me)
 
 
 
