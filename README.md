@@ -53,10 +53,6 @@ The yonkoma I have made is a bit of a parody of a typical yonkoma. This yonkoma 
 
 Figure 3. Flora's Yonkoma Iteration 2;
 
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
 ## Methodology
 
 When starting this project, research was conducted into what a yonkoma is as well as various comic art styles and effects used in animation and comic strips. To start with, yonkomas are structured differently than your average comic strip. While western culture dictates that comic strips be read left-to-right, the formatting of a yonkoma dictates that it be read from top right down to the bottom right, then again from top left to the bottom left. With this in mind, I have formatted my yonkoma to adhere with these formatting rules, having the comic begin on the right and end on the left. Yonkomas also follows the 'kishōtenketsu' formatting in which 'the narrative unfolds with story elements whose interconnectedness becomes evident near the end of the story'[1].
