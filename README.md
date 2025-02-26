@@ -42,7 +42,7 @@ This work is titled 'Flora's Yonkoma'. A yonkoma is a four-panel comic that can 
 
 [![4-comma][images-fig2]](https://example.com)
 
-Figure 2. Flora's Yonkoma Iteration 1; This is the first iteration of the yonkoma comic, it outlines the rough sketches and idea for the main comic, as well as the layout. 
+Figure 2. Flora's Yonkoma Iteration 1; This is the first iteration of the yonkoma comic, it outlines the rough sketches and idea for the main comic, as well as the layout. The comic is meant to be read as; 1. top right, 2. bottom right, 3. top left, 4. bottom left. 
 
 <!-- Introduction and Related Works -->
 ## Introduction and Related Works
