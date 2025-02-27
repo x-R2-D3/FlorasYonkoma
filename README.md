@@ -51,7 +51,7 @@ The yonkoma I have made is a bit of a parody of a typical yonkoma. This yonkoma 
 
 [![4-comma][images-fig3]](https://example.com)
 
-Figure 3. Flora's Yonkoma Iteration 2;
+Figure 3. Flora's Yonkoma Iteration 2; This iteration emphasizes the comic art effects of speed lines for motion and cross hatching for shadows.
 
 ## Methodology
 
