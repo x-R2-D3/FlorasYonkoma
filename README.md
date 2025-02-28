@@ -59,7 +59,7 @@ When starting this project, research was conducted into what a yonkoma is as wel
 
 [![4-comma][images-fig4]](https://example.com)
 
-Figure 4. description for Figure 5
+Figure 4. Flora's Yonkoma Iteration 3; This iteration experiments with color and color theory. Warm colors are used to show agency while cool colors are used for calmness. Primary colors were used to give the peice a "pop art" type asthetic.
 
 ## Result and Future Work
 Your Result and Future Work here: 100 words here.
@@ -122,7 +122,7 @@ VIZA 626 Class Website: [https://sites.google.com/view/viza626/](https://sites.g
 [images-fig1]: images/fig1.png
 [images-fig2]: fig2.JPG
 [images-fig3]: fig3.JPG
-[images-fig4]: images/fig4.png
+[images-fig4]: fig4.JPG
 [images-fig5]: images/fig5.png
 [images-fig6]: images/fig6.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
