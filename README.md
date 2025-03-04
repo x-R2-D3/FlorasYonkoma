@@ -66,7 +66,7 @@ Your Result and Future Work here: 100 words here.
 
 [![4-comma][images-fig5]](https://example.com)
 
-Figure 5. description for Figure 5
+Figure 5. Flora's Yonkoma Itteration 4; This iteration begins the process of adding Flora's flowers to her body. These flowers will then be duplicted and added to the subsequent smaller yonkoma. This process can sometimes be rather tedious.
 
 ## Conclusion
 Your Conclusion here: 50 words here
@@ -123,7 +123,7 @@ VIZA 626 Class Website: [https://sites.google.com/view/viza626/](https://sites.g
 [images-fig2]: fig2.JPG
 [images-fig3]: fig3.JPG
 [images-fig4]: fig4.JPG
-[images-fig5]: images/fig5.png
+[images-fig5]: fig5.JPG
 [images-fig6]: images/fig6.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
