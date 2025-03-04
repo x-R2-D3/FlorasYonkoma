@@ -62,18 +62,15 @@ When starting this project, research was conducted into what a yonkoma is as wel
 Figure 4. Flora's Yonkoma Iteration 3; This iteration experiments with color and color theory. Warm colors are used to show agency while cool colors are used for calmness. Primary colors were used to give the piece a "pop art" type aesthetic.
 
 ## Result and Future Work
-Your Result and Future Work here: 100 words here.
+The final result contains a mixture of color theory, comic art effects, the Droste Effect, and of course the yonkoma kishōtenketsu format. With the colors, I was aiming for what each color tends to represent emotion wise. Cool colors tend to represent calm while warm colors are active. The image starts out as blue for calmness, then progresses to yellow for caution or alert. It then switches to red to represent alarms going off and chaos. Finally the image goes back to green for contentment and “spring time joy” as Flora’s fur pattern normally contains flowers.
 
 [![4-comma][images-fig5]](https://example.com)
 
 Figure 5. Flora's Yonkoma Itteration 4; This iteration begins the process of adding Flora's flowers to her body. These flowers will then be duplicted and added to the subsequent smaller yonkoma. This process can sometimes be rather tedious.
 
 ## Conclusion
-Your Conclusion here: 50 words here
+In conclusion, the work “Flora’s Yonkoma” is a fun exploration into various art and comic styles used throughout artwork. While the piece itself doesn’t combine these aspects in a new or redefining way, it simply comments on how these aspects and themes can be used together effectively to drive a narrative.
 
-[![4-comma][images-fig6]](https://example.com)
-
-Figure 6. description for Figure 6
 
 <!-- Bibliography -->
 ## References
@@ -119,7 +116,7 @@ VIZA 626 Class Website: [https://sites.google.com/view/viza626/](https://sites.g
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
-[images-fig1]: images/fig1.png
+[images-fig1]: fig1.JPG
 [images-fig2]: fig2.JPG
 [images-fig3]: fig3.JPG
 [images-fig4]: fig4.JPG
