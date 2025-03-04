@@ -21,9 +21,9 @@
   <h3 align="center">Flora's Yonkoma</h3>
 
   <p align="center">
-    Overleaf PDF
+    Flora Makes A Yonkoma, and the Process Behind It
     <br />
-    <a href="[https://drive.google.com/file/d/1RCADC8EzU-FhASNdfd4ynTviInf4qRTo/view?usp=share_link]"><strong>Link to PDF Report »</strong></a>
+    <a href="(https://drive.google.com/file/d/1RCADC8EzU-FhASNdfd4ynTviInf4qRTo/view?usp=share_link)"><strong>Link to PDF Report »</strong></a>
     <br />
     <br />
     <a href="https://astroanimation.me">Isabel Whelchel</a>
