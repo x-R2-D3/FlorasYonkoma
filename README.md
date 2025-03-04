@@ -59,7 +59,7 @@ When starting this project, research was conducted into what a yonkoma is as wel
 
 [![4-comma][images-fig4]](https://example.com)
 
-Figure 4. Flora's Yonkoma Iteration 3; This iteration experiments with color and color theory. Warm colors are used to show agency while cool colors are used for calmness. Primary colors were used to give the peice a "pop art" type asthetic.
+Figure 4. Flora's Yonkoma Iteration 3; This iteration experiments with color and color theory. Warm colors are used to show agency while cool colors are used for calmness. Primary colors were used to give the piece a "pop art" type aesthetic.
 
 ## Result and Future Work
 Your Result and Future Work here: 100 words here.
